@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadPay724.Presentation", "MadPay724.Presentation\MadPay724.Presentation.csproj", "{FF2C730A-F4DC-4CD2-B141-F4DAC583ADF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadPay724.Commen", "MadPay724.Commen\MadPay724.Commen.csproj", "{328FB7B5-C58F-4F42-83A7-5AE268941912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadPay724.Data", "MadPay724.Data\MadPay724.Data.csproj", "{FB9636C8-69C2-4B2B-A3C2-7046408923B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadPay724.Infrastructure", "MadPay724.Infrastructure\MadPay724.Infrastructure.csproj", "{125DF8FC-08B6-4766-B61B-D88AD6D37D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadPay724.Repo", "MadPay724.Repo\MadPay724.Repo.csproj", "{86C0E097-2417-43E5-A965-61E5B17BD202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadPay724.Services", "MadPay724.Services\MadPay724.Services.csproj", "{C482190D-2191-421F-9F8B-5E62B7923F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2C730A-F4DC-4CD2-B141-F4DAC583ADF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2C730A-F4DC-4CD2-B141-F4DAC583ADF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2C730A-F4DC-4CD2-B141-F4DAC583ADF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2C730A-F4DC-4CD2-B141-F4DAC583ADF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328FB7B5-C58F-4F42-83A7-5AE268941912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328FB7B5-C58F-4F42-83A7-5AE268941912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328FB7B5-C58F-4F42-83A7-5AE268941912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328FB7B5-C58F-4F42-83A7-5AE268941912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9636C8-69C2-4B2B-A3C2-7046408923B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9636C8-69C2-4B2B-A3C2-7046408923B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9636C8-69C2-4B2B-A3C2-7046408923B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9636C8-69C2-4B2B-A3C2-7046408923B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125DF8FC-08B6-4766-B61B-D88AD6D37D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125DF8FC-08B6-4766-B61B-D88AD6D37D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125DF8FC-08B6-4766-B61B-D88AD6D37D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125DF8FC-08B6-4766-B61B-D88AD6D37D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C0E097-2417-43E5-A965-61E5B17BD202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C0E097-2417-43E5-A965-61E5B17BD202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C0E097-2417-43E5-A965-61E5B17BD202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C0E097-2417-43E5-A965-61E5B17BD202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C482190D-2191-421F-9F8B-5E62B7923F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C482190D-2191-421F-9F8B-5E62B7923F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C482190D-2191-421F-9F8B-5E62B7923F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C482190D-2191-421F-9F8B-5E62B7923F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B62D606E-65F6-45F5-BC27-418FCAD830B3}
+	EndGlobalSection
+EndGlobal
